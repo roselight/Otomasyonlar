@@ -1,0 +1,18 @@
+C:\Users\Gülnur\Documents\Visual Studio 2013\Projects\153301013\153301013\bin\Debug\153301013.exe.config
+C:\Users\Gülnur\Documents\Visual Studio 2013\Projects\153301013\153301013\obj\Debug\153301013.exe
+C:\Users\Gülnur\Documents\Visual Studio 2013\Projects\153301013\153301013\obj\Debug\153301013.pdb
+C:\Users\Gülnur\Documents\Visual Studio 2013\Projects\153301013\153301013\bin\Debug\153301013.exe
+C:\Users\Gülnur\Documents\Visual Studio 2013\Projects\153301013\153301013\bin\Debug\153301013.pdb
+C:\Users\Gülnur\Documents\Visual Studio 2013\Projects\153301013\153301013\obj\Debug\Abstract Factory.csprojResolveAssemblyReference.cache
+C:\Users\Gülnur\Documents\Visual Studio 2013\Projects\153301013\153301013\obj\Debug\_153301013.Form1.resources
+C:\Users\Gülnur\Documents\Visual Studio 2013\Projects\153301013\153301013\obj\Debug\_153301013.Properties.Resources.resources
+C:\Users\Gülnur\Documents\Visual Studio 2013\Projects\153301013\153301013\obj\Debug\Abstract Factory.csproj.GenerateResource.Cache
+Z:\XX\Gulnur\okul\Visual Studio 2013\Projects\153301013\153301013\bin\Debug\153301013.exe.config
+Z:\XX\Gulnur\okul\Visual Studio 2013\Projects\153301013\153301013\obj\Debug\153301013.exe
+Z:\XX\Gulnur\okul\Visual Studio 2013\Projects\153301013\153301013\obj\Debug\153301013.pdb
+Z:\XX\Gulnur\okul\Visual Studio 2013\Projects\153301013\153301013\bin\Debug\153301013.exe
+Z:\XX\Gulnur\okul\Visual Studio 2013\Projects\153301013\153301013\bin\Debug\153301013.pdb
+Z:\XX\Gulnur\okul\Visual Studio 2013\Projects\153301013\153301013\obj\Debug\Abstract Factory.csprojResolveAssemblyReference.cache
+Z:\XX\Gulnur\okul\Visual Studio 2013\Projects\153301013\153301013\obj\Debug\_153301013.Form1.resources
+Z:\XX\Gulnur\okul\Visual Studio 2013\Projects\153301013\153301013\obj\Debug\_153301013.Properties.Resources.resources
+Z:\XX\Gulnur\okul\Visual Studio 2013\Projects\153301013\153301013\obj\Debug\Abstract Factory.csproj.GenerateResource.Cache

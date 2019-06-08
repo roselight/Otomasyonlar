@@ -1,0 +1,9 @@
+C:\Users\Gülnur\Documents\Visual Studio 2013\Projects\153301013\Builder\bin\Debug\Builder.exe.config
+C:\Users\Gülnur\Documents\Visual Studio 2013\Projects\153301013\Builder\obj\Debug\Builder.csprojResolveAssemblyReference.cache
+C:\Users\Gülnur\Documents\Visual Studio 2013\Projects\153301013\Builder\obj\Debug\Builder.Form1.resources
+C:\Users\Gülnur\Documents\Visual Studio 2013\Projects\153301013\Builder\obj\Debug\Builder.Properties.Resources.resources
+C:\Users\Gülnur\Documents\Visual Studio 2013\Projects\153301013\Builder\obj\Debug\Builder.csproj.GenerateResource.Cache
+C:\Users\Gülnur\Documents\Visual Studio 2013\Projects\153301013\Builder\bin\Debug\Builder.exe
+C:\Users\Gülnur\Documents\Visual Studio 2013\Projects\153301013\Builder\bin\Debug\Builder.pdb
+C:\Users\Gülnur\Documents\Visual Studio 2013\Projects\153301013\Builder\obj\Debug\Builder.exe
+C:\Users\Gülnur\Documents\Visual Studio 2013\Projects\153301013\Builder\obj\Debug\Builder.pdb
