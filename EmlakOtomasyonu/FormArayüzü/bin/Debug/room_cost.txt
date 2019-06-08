@@ -1,0 +1,5 @@
+Müstakil:150
+Daire:90
+Dublex:120
+Bahçeli:170
+Havuzlu:145

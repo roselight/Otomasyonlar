@@ -1,0 +1,10 @@
+C:\Users\Gülnur\documents\visual studio 2013\Projects\EmlakOtomasyonu\ClassLib\obj\Debug\ClassLib.csprojResolveAssemblyReference.cache
+C:\Users\Gülnur\documents\visual studio 2013\Projects\EmlakOtomasyonu\ClassLib\bin\Debug\ClassLib.dll
+C:\Users\Gülnur\documents\visual studio 2013\Projects\EmlakOtomasyonu\ClassLib\bin\Debug\ClassLib.pdb
+C:\Users\Gülnur\documents\visual studio 2013\Projects\EmlakOtomasyonu\ClassLib\obj\Debug\ClassLib.dll
+C:\Users\Gülnur\documents\visual studio 2013\Projects\EmlakOtomasyonu\ClassLib\obj\Debug\ClassLib.pdb
+Z:\XX\Gulnur\okul\Visual Studio 2013\Projects\EmlakOtomasyonu\ClassLib\bin\Debug\ClassLib.dll
+Z:\XX\Gulnur\okul\Visual Studio 2013\Projects\EmlakOtomasyonu\ClassLib\bin\Debug\ClassLib.pdb
+Z:\XX\Gulnur\okul\Visual Studio 2013\Projects\EmlakOtomasyonu\ClassLib\obj\Debug\ClassLib.csprojResolveAssemblyReference.cache
+Z:\XX\Gulnur\okul\Visual Studio 2013\Projects\EmlakOtomasyonu\ClassLib\obj\Debug\ClassLib.dll
+Z:\XX\Gulnur\okul\Visual Studio 2013\Projects\EmlakOtomasyonu\ClassLib\obj\Debug\ClassLib.pdb
